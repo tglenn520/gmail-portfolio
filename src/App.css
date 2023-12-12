@@ -1,0 +1,9 @@
+.app__body {
+  display: flex;
+  height: 100vh;
+  overflow: none;
+}
+
+.app__body::webkit-scrollbar {
+  display: none;
+}
